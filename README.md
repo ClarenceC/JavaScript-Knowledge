@@ -1,2 +1,10 @@
-# JavaScript-Knowledge
-:zap: JavaScript 的知识点 和 ECMAScript 标准
+# JavaScript 学习与知识点
+
+写这个文章的目的是要在学习 JavaScript 的过程中总结和梳理 JavaScript 知识点，从简单的语法知识面到深层的 ECMAScript 标准，对 JavaScript 全面学习巩固，和预到一些奇怪的问题的时候能有更深入的认识，像 @jawil 所说学习 JavaScript 有三种境界：
+
+- 第一境界： **看山是山，看水是水**
+- 第二境界： **看山不是山，看水不是水。**
+- 第三境界： **看山还是山，看水还是水。**
+
+我个人觉得这三个境界是，从表层语法到深入学习 ECMAScript 底层的一个过程，表层你只是看到一个结果，第二层你能知道 ECMAScript 核心的运行规则和运行过程与原理，第三层还是隐射出原来的结果。这是从表象，继而到本质再回归到现象的过程。
+
