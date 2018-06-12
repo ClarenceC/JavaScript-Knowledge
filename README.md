@@ -8,6 +8,10 @@
 
 我个人觉得这三个境界是，从表层语法到深入学习 ECMAScript 底层的一个过程，表层你只是看到一个结果，第二层你能知道 ECMAScript 核心的运行规则和运行过程与原理，第三层还是隐射出原来的结果。这是从表象，继而到本质再回归到现象的过程。
 
+## 原生 JS 知识点  :pushpin:
+
+[作用域](https://github.com/ClarenceC/JavaScript-Knowledge/issues/1)
+
 ## DOM （知识点）:round_pushpin:
 [原生JavaScript的DOM操作汇总](http://harttle.land/2015/10/01/javascript-dom-api.html)
 
