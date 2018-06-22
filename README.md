@@ -11,6 +11,7 @@
 ## 原生 JS 知识点  :pushpin:
 
 [作用域](https://github.com/ClarenceC/JavaScript-Knowledge/issues/1)
+
 [DOM](https://github.com/ClarenceC/JavaScript-Knowledge/issues/2)
 
 ## DOM （知识点）:round_pushpin:
