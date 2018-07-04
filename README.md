@@ -14,6 +14,8 @@
 
 [DOM](https://github.com/ClarenceC/JavaScript-Knowledge/issues/2)
 
+模块化
+
 ## DOM （知识点）:round_pushpin:
 [原生JavaScript的DOM操作汇总](http://harttle.land/2015/10/01/javascript-dom-api.html)
 
