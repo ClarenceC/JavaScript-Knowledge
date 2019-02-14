@@ -11,39 +11,7 @@
 
 ## JavaScript知识架构  :pushpin:
 
-以前学习 JavaScript 知识点觉得是应该以知识点来划分，但是这样划分知识点是很难连接起来连成线的，我试着按着 winter 的思路，重新组织 JavaScript 知识架构，winter 的思想是"用规定的文法，去表达特定语义，最终操作运行时的过程"，已达到知识架构的完备性，和连接性。
 
-- 文法
-  - 词法
-  
-    直接量
-    
-    关键字
-    
-    运算符
-    
-    词法分析
-    
-  - 语法
-- 语义
-
-  表达式
-  
-  语句
-  
-  函数
-  
-  对象
-  
-  模块
-  
-- 运行时
-  - 类型(数据结构)
-    对象
-    数字
-    字符串
-  - 执行过程(算法)
-  
 
 ## 原生 JS 知识点  :pushpin:
 
@@ -52,6 +20,10 @@
 [DOM](https://github.com/ClarenceC/JavaScript-Knowledge/issues/2)
 
 [模块化](https://github.com/ClarenceC/JavaScript-Knowledge/issues/3)
+
+[JavaScript 浏览器 EventLoop](https://github.com/ClarenceC/JavaScript-Knowledge/issues/4)
+
+[JavaScript 基础类型转换](https://github.com/ClarenceC/JavaScript-Knowledge/issues/5)
 
 ## DOM （知识点）:round_pushpin:
 [原生JavaScript的DOM操作汇总](http://harttle.land/2015/10/01/javascript-dom-api.html)
